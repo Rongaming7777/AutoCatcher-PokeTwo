@@ -1,0 +1,23 @@
+{
+  "name": "AutoCatcher-PokeTwo",
+  "version": "1.0.0",
+  "description": "Simple Auto Catcher Pokemons for PokeTwo B)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaot128/AutoCatcher-PokeTwo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaot128/AutoCatcher-PokeTwo/issues"
+  },
+  "homepage": "https://github.com/zhaot128/AutoCatcher-PokeTwo#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
